@@ -1,0 +1,49 @@
+Role,EmpID,FullName,Title,Department,FitScore
+Production Manager,2118,Dale Mendoza,Production Technician II,Production,84.0
+Production Manager,2906,Anabel Hanna,Production Technician II,Production,84.0
+Production Manager,3075,Adam Meza,Production Technician II,Production,84.0
+Director of Operations,2468,Kailyn Torres,Production Manager,Production,100.0
+Director of Operations,2438,Humberto Rocha,Production Manager,Production,100.0
+Director of Operations,2367,Mariam Doyle,Production Manager,Production,100.0
+Sales Manager,2727,Uriah Briggs,Area Sales Manager,Sales,100.0
+Sales Manager,3496,Aspen Bentley,Area Sales Manager,Sales,100.0
+Sales Manager,2736,Zara Werner,Area Sales Manager,Sales,96.0
+Director of Sales,1949,Ashlynn Duffy,Sales Manager,Sales,93.1
+Director of Sales,1714,Tess Reilly,Sales Manager,Sales,93.1
+Director of Sales,3493,Hugo Clay,Area Sales Manager,Sales,93.1
+IT Manager - Infra,3810,Ann Daniele,Sr. Network Engineer,IT/IS,89.7
+IT Manager - Infra,3886,Britney Kelly,Sr. Network Engineer,IT/IS,82.8
+IT Manager - Infra,3874,Aspen Reyes,Sr. Network Engineer,IT/IS,82.8
+IT Manager - Support,3810,Ann Daniele,Sr. Network Engineer,IT/IS,89.7
+IT Manager - Support,3886,Britney Kelly,Sr. Network Engineer,IT/IS,82.8
+IT Manager - Support,3874,Aspen Reyes,Sr. Network Engineer,IT/IS,82.8
+IT Director,2245,Londyn Underwood,IT Manager - Infra,IT/IS,97.0
+IT Director,2567,Sylvia Price,IT Manager - Infra,IT/IS,97.0
+IT Director,2264,Piper Guzman,IT Manager - Infra,IT/IS,97.0
+Data Architect,1700,Gretchen Weeks,Senior BI Developer,IT/IS,89.7
+Data Architect,1712,Quintin Hicks,Senior BI Developer,IT/IS,82.8
+Data Architect,2508,Selina Tapia,BI Developer,IT/IS,82.8
+IT Manager - DB,1700,Gretchen Weeks,Senior BI Developer,IT/IS,89.7
+IT Manager - DB,1712,Quintin Hicks,Senior BI Developer,IT/IS,82.8
+IT Manager - DB,2508,Selina Tapia,BI Developer,IT/IS,82.8
+Principal Data Architect,2503,Ally Goodman,IT Manager - DB,IT/IS,100.0
+Principal Data Architect,2232,Jovan Giles,IT Manager - DB,IT/IS,100.0
+Principal Data Architect,2545,Odin Key,IT Manager - DB,IT/IS,100.0
+BI Director,2503,Ally Goodman,IT Manager - DB,IT/IS,100.0
+BI Director,2232,Jovan Giles,IT Manager - DB,IT/IS,100.0
+BI Director,2545,Odin Key,IT Manager - DB,IT/IS,100.0
+Enterprise Architect,2503,Ally Goodman,IT Manager - DB,IT/IS,100.0
+Enterprise Architect,2232,Jovan Giles,IT Manager - DB,IT/IS,100.0
+Enterprise Architect,2545,Odin Key,IT Manager - DB,IT/IS,100.0
+Software Engineering Manager,2727,Uriah Briggs,Area Sales Manager,Sales,80.0
+Software Engineering Manager,1700,Gretchen Weeks,Senior BI Developer,IT/IS,80.0
+Software Engineering Manager,2644,Miranda Keith,Area Sales Manager,Sales,76.0
+Shared Services Manager,2727,Uriah Briggs,Area Sales Manager,Sales,76.0
+Shared Services Manager,2696,Meadow Delgado,Area Sales Manager,Sales,76.0
+Shared Services Manager,2630,Kiley Wagner,Area Sales Manager,Sales,76.0
+CIO,1034,Dennis Livingston,Shared Services Manager,Software Engineering,100.0
+CIO,2393,Rhett Holmes,Production Manager,Production,95.2
+CIO,2277,Amy Dunn,Production Manager,Production,95.2
+President & CEO,1034,Dennis Livingston,Shared Services Manager,Software Engineering,100.0
+President & CEO,2393,Rhett Holmes,Production Manager,Production,95.2
+President & CEO,2277,Amy Dunn,Production Manager,Production,95.2

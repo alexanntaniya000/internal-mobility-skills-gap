@@ -6,22 +6,6 @@ Created on Wed Nov 11 18:05:40 2026
 @author: anntaniyaalex
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Internal mobility and skills-gap project
-Data: employee_data.csv (Kaggle, ravindrasinghrana)
-
-What this project does:
-1. cleans the HR data
-2. creates a skills table for each employee (the dataset has no skills, so it is simulated)
-3. checks how well each employee fits the next role in their career path
-4. finds skill gaps and suggests training
-5. lists the best internal candidates for senior roles
-
-Tip: run one cell at a time with Ctrl+Enter (a cell starts with # %%)
-"""
-
 # %% step 1: import libraries
 import os
 import numpy as np
